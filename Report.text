@@ -1,0 +1,17 @@
+Title: Predicting CO₂ Emissions with Machine Learning
+
+SDG: SDG 13 – Climate Action
+
+Problem: Climate change caused by increasing CO₂ emissions
+
+ML Technique: Supervised Learning – Random Forest Regressor
+
+Dataset: Global CO₂ emissions data (GitHub Dataset)
+
+Results:
+- R² Score ≈ 0.85
+- Forecasted future CO₂ emissions with good accuracy
+
+Ethical Considerations:
+- Risk of bias due to underreporting
+- Model promotes fairness by supporting data-driven policy decisions
